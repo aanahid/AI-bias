@@ -1,1 +1,336 @@
+{
+    "1": """
 
+Shreyansh Jain was ecstatic in March when he picked up his first electric vehicle, a brand-new 2023 Tesla Model Y. He used a sizable chunk of family savings to buy it with cash.
+
+“We were over the moon!” said Jain, an electronics engineer in Cambridge, England.
+
+His exuberance came to a “grinding halt” one day later, with 115 miles on the odometer, Jain told Reuters. As he drove with his wife and three-year-old daughter, he suddenly lost steering control as he made a slow turn into their neighborhood. The vehicle’s front-right suspension had collapsed, and parts of the car loudly scraped the road as it came to a stop.
+
+“They were absolutely petrified,” Jain said of his wife and daughter. “If we were on a 70-mile-per-hour highway, and this would have happened, that would have been catastrophic.”
+
+The complex repair required nearly 40 hours of labor to rebuild the suspension and replace the steering column, among other fixes, according to a detailed repair estimate. The cost: more than $14,000. Tesla refused to cover the repairs, blaming the accident on “prior” suspension damage.
+
+Jain is one of tens of thousands of Tesla owners who have experienced premature failures of suspension or steering parts, according to a Reuters review of thousands of Tesla documents. The chronic failures, many in relatively new vehicles, date back at least seven years and stretch across Tesla’s model lineup and across the globe, from China to the United States to Europe, according to the records and interviews with more than 20 customers and nine former Tesla managers or service technicians.
+
+Individual suspension or steering issues with Teslas have been discussed online and in news accounts for years. But the documents, which have not been previously reported, offer the most comprehensive view to date into the scope of the problems and how Tesla handled what its engineers have internally called part “flaws” and “failures.” The records and interviews reveal for the first time that the automaker has long known far more about the frequency and extent of the defects than it has disclosed to consumers and safety regulators.
+
+The documents, dated between 2016 and 2022, include repair reports from Tesla service centers globally; analyses and data reviews by engineers on parts with high failure rates; and memos sent to technicians globally, instructing them to tell consumers that broken parts on their cars were not faulty.
+
+    “Front wheel fell off while driving on Autopilot at 60 mph.”
+
+Neither Tesla nor top executive Elon Musk responded to detailed questions for this article. Musk has acknowledged some build-quality problems with Teslas in the past, particularly the entry-level Model 3. But he also says his cars have no peer.
+
+“We make the best cars,” he said of Tesla at a New York Times event last month. “Whether you hate me, like me or are indifferent, do you want the best car, or do you not want the best car?”
+
+Tesla’s handling of suspension and steering complaints reflects a pattern across Musk’s corporate empire of dismissing concerns about safety or other harms raised by customers, workers and others as he rushes to roll out new products or expand sales, Reuters has found.
+
+A Reuters investigation in November documented at least 600 injuries at rocket-builder SpaceX, where employees described a culture of rushing dangerous projects with little regard for workers’ safety worries. In July, the news agency revealed how Tesla had created a secret team to suppress thousands of customer complaints about poor driving range. The report, which found that Tesla rigged an algorithm to inflate its cars’ in-dash range estimates, sparked a federal investigation. Late last year, Reuters exposed how hurried experiments at Musk’s brain-chip startup, Neuralink, resulted in the unnecessary suffering and deaths of laboratory animals, despite objections from workers seeking to protect them.
+
+Neither Musk nor any of his companies commented for these reports. But he recently lashed out at critics of his social-media company, X, formerly Twitter, which has seen its revenue and market value plummet since Musk bought the firm for $44 billion about a year ago. At the live Times event, he went after advertisers who boycotted X over Musk’s endorsement of an antisemitic post on the social-media site. “Go fuck yourself,” the billionaire told companies who pulled their business.
+
+Unlike traditional automakers, which use independent dealers to sell and repair vehicles, Tesla sells directly to customers and owns and operates a large portion of its service centers. That gives the automaker extraordinarily detailed real-time visibility into parts failures, repairs and warranty claims, which Tesla engineers meticulously tracked and analyzed for years, the company records show.
+
+Yet the company has denied some of the suspension and steering problems in statements to U.S. regulators and the public– and, according to Tesla records, sought to shift some of the resulting repair costs to customers.
+
+Tesla has blamed frequent failures of several parts on Tesla owners, alleging they abused the cars, according to interviews with former service managers, company records and a 2020 Tesla letter to the U.S. National Highway Traffic Safety Administration (NHTSA). In other cases, the automaker charged customers with out-of-warranty cars to replace parts that Tesla engineers internally called flawed or that they knew had high failure rates. Engineers ordered repeated redesigns for several parts and discussed seeking money back from suppliers because of the defects.
+
+The records reveal persistent problems with low-tech suspension connections, such as upper and lower control arms, and fore and aft links. These parts are relatively inexpensive for Tesla and largely invisible to most consumers. But they play a critical role in safely connecting a car’s axle and wheels to its body and steering apparatus.
+
+Two more complex and expensive parts also frequently failed: half shafts – the left and right drive axles – and steering racks, which often needed replacing after sudden power-steering outages that some Tesla owners said nearly caused accidents. One driver said in an interview that his brand-new 2023 Model Y jerked to the right when the power-steering suddenly failed at speed, nearly putting the vehicle into a ditch.
+
+At least 11 drivers told Tesla a crash was caused by a failure in the suspension, steering or wheel assembly, company records show. Those accident claims, which have not been previously reported by the media, were recorded by Tesla staff between 2018 and 2021 and assigned to engineers or technicians for review.
+
+In April 2021, the owner of a 2020 Model 3 with less than 15,000 miles on the odometer, went to a Tesla repair center in Brooklyn, New York, after an accident. The technician’s summary: “Front wheel fell off while driving on Autopilot at 60 mph,” referring to Tesla’s automated driving system. The wrecked car was sold, without the front wheel, in November 2021, auction records show.
+The front suspension on Shreyansh Jain’s 2023 Tesla Model Y, pictured above, collapsed a day after he bought the car new. Tesla told him the failure was caused by the separation of a lower control arm from the steering knuckle, which the company blamed on “prior” damage to the brand-new vehicle. Handout via REUTERS
+
+The following month, another owner of a 2020 Model X in Madrid reported a wheel falling off while driving, the records show. Neither driver is identified in the records, which also do not detail how Tesla responded.
+
+The suspension collapse in Jain’s car fortunately occurred at low speed. It was nonetheless shocking in a car he had owned for less than 24 hours. The automaker told him the suspension collapse was caused by the separation of a lower control arm from the steering knuckle, which connects to the wheel assembly. Jain expected Tesla to cover the damage.
+
+A Tesla Service representative had texted Jain that an initial inspection found “no evidence of any external damage” that caused the incident and implied Tesla would pay for the repairs, according to a copy of the text Jain provided to Reuters.
+
+About a week later, Tesla sent Jain a letter denying responsibility, saying it had inspected the vehicle and determined that the cause was “a prior external influenced damage to the front-right suspension.”
+
+Jain said he was the only driver of the car during the one day he owned it and hadn’t had an accident before the suspension failure. “I was like, ‘Bloody hell, how can metal just snap like that when I know for sure the car has not hit anything?’” he said.
+
+The repair took about three months. Jain paid a deductible of about $1,250 to have the work covered by his insurance company, which after the claim hiked his rates sharply on another car he owned, he said.
+
+Fed up with the ordeal, Jain sold the repaired Tesla – for about $10,000 less than the $55,000 he paid for it.
+
+“I lost complete confidence in the car,” he said.
+
+Recalling parts in China – but not in the U.S.
+
+The Tesla records reveal the company’s extensive knowledge of systemic suspension and steering problems, even as the company denied some of the same problems to regulators and customers who expected the company to pay for repairs. One especially problematic part was the aft link.
+
+A series of 2016 suspension failures in China bears striking similarities to the incident with Jain’s car seven years later. Some of Tesla’s earliest China customers told the automaker that a front wheel had collapsed while turning at low speeds on its Model S luxury sports car, Tesla’s first mass-produced vehicle.
+
+The front aft link, an aluminum-alloy suspension arm, had snapped, Tesla engineers found, according to company records that documented half a dozen such incidents. Between 2016 and 2020, Tesla resolved about 400 complaints involving aft-link failures in China, according to a former Tesla employee with direct knowledge of the matter. The company fixed cars under warranty or by making so-called goodwill repairs for out-of-warranty vehicles, the former employee said. Tesla redesigned the part four times because the initial revisions did not fully fix the problem, the automaker’s records show.
+
+“The collapse of the suspension is terrifying to the customer,” Riccardo Dong, a Tesla engineer then based in China, wrote in 2016 on the company’s troubleshooting platform. “Many owners are asking for a recall.”
+
+Dong did not respond to a request for comment.
+
+Tesla delayed a recall for four more years, until Chinese regulators pushed for one. China’s State Administration for Market Regulation, in a statement, cited a “risk of accidents” in extreme cases of the aft-link part failure. Yet the automaker never recalled the part in the United States and Europe despite reports of frequent failures globally.
+
+Tesla told U.S. regulators the failures were caused by “driver abuse.” The company also instructed service centers, in a February 2019 “talking points” memo, to use the same explanation with customers experiencing aft-link failures. They were told to blame “vehicle misuse,” such as “hitting a curb or other excessive strong impact.”
+
+Tesla uses the terms “abuse” and “misuse” in the conditions of its warranty contract language that allow the automaker to decline claims for repairs or damage.
+
+Tesla employed this deny-and-delay strategy as its ballooning costs of warranty repairs threatened the company’s profitability at a critical juncture – when investors were scrutinizing its long-term prospects.
+
+During the fourth quarter of 2018, Tesla paid nearly $500 for repairs, on average, for every Tesla in operation at the time, service engineers were told in a series of memos. In total, an April 2019 memo noted, Tesla’s repair business lost $263 million in the quarter because of the high volume of warranty and goodwill repairs. For comparison, that was nearly double Tesla’s quarterly profit of $139 million.
+
+    “I lost complete confidence in the car.”
+
+Some U.S. customers with out-of-warranty cars paid more than $1,000 to repair aft links, and Tesla records show many European customers were frustrated at paying for replacements. Tesla’s basic U.S. warranty lasts four years or 50,000 miles, and coverage is similar in most other markets.
+
+Tesla has also fought in court to avoid making repairs to suspension parts, including control arm assembly components.
+
+The automaker scored a recent victory in a prospective class-action lawsuit alleging Tesla was aware that Model S and X cars made from 2013 to 2018 had a “suspension defect,” yet refused to cover repair costs, even for vehicles still under warranty. A federal judge in California dismissed claims from one plaintiff in January 2023, ruling he had failed to show Tesla “knew or should have known” of an alleged defect in his car. The class-action lawsuit, however, didn’t cite the Tesla records Reuters reviewed for this article. The other two plaintiffs voluntarily dismissed their claims without prejudice, which could allow them to refile a similar case later.
+
+Tesla has had nine recalls in the United States for steering and suspension issues since 2018, NHTSA records show. Most affected a relatively small number of vehicles. The largest was in 2018, to replace steering-rack bolts on more than 70,000 Model S vehicles because of the risk that corrosion could cause a loss of power steering.
+
+Tesla engineers were still examining the aft-link failures as recently as 2022, company records show. In February of that year, one company data review noted that the multiple revisions to the part, over several years, had finally fixed all “major flaws.”
+
+Earlier, in April 2019, Netherlands-based Tesla Product Support Engineer Ralf van Gestel presented findings on the aft-link issue in an analysis. He found Tesla had spent nearly $4 million on suspension warranty repairs globally for models S and X over the previous 12 months. Aft-link failures, often on cars less than two years old, accounted for the largest portion, $1.3 million.
+
+In the 12 months before van Gestel’s analysis, Tesla had replaced about 11,000 of the parts, about two-thirds of them under warranty, the data collected by van Gestel showed.
+
+In September 2020, Tesla engineers in Europe examined the long history of aft-link failures. Valentin Oetliker, an engineer and company intern based in France, expressed alarm that the part had a “high failure rate” despite a redesign. In an analysis written for other engineers, he noted that many customers were dissatisfied at paying for the repairs in newer vehicles. At the time, about 5% of the 12,858 Model S and Model X vehicles on the road in Tesla’s southern Europe and Middle East markets had needed repairs because of aft-link failures, according to a Reuters calculation of the data reported by Oetliker.
+
+Oetliker did not comment.
+
+That same month, in a September 3, 2020, letter to U.S. regulators, Tesla denied there were any defects with the same aft links that its engineers had determined were flawed. It told NHTSA it would not recall the part for U.S. customers, despite its recall of the same part the month before in China.
+
+The company told NHTSA it had voluntarily recalled the aft link and another suspension part under pressure from China regulators, even though it disagreed with their assessment, because fighting them presented a “heavy burden.” At the time, Tesla was looking to ramp up production at its newly built Shanghai Gigafactory, which would become the world’s most productive and profitable electric-vehicle plant.
+
+By contrast, Tesla took a firm stance with U.S. regulators.
+
+“There is no defect in the subject components and no associated safety risk,” a senior Tesla lawyer wrote to NHTSA, again blaming owners: “The root cause of the issue is driver abuse.”
+
+The letter cited a drastically lower failure frequency than the 5% failure rate for the aft link in the markets that Oetliker analyzed. Addressing both aft links and the other part it recalled in China, a rear suspension upper link, Tesla told NHTSA: “The occurrence of such failures in China (approx. 0.1%) and elsewhere (less than 0.05%) remains exceedingly rare.”
+
+NHTSA has not ordered Tesla to take any action on the parts the company recalled in China. The agency has not explained why. The U.S. safety regulator, however, has since 2020 been investigating a similar front suspension part known as a fore link, and its risk of breaking, in models S and X. The agency has said it received dozens of complaints about the part breaking, including several about failures happening at highway speeds.
+
+NHTSA confirmed to Reuters it was investigating the fore link. The agency also launched a probe into power-steering outages in July. NHTSA declined further comment on both inquiries.
+
+In July 2021, Henrietta Wooten, a retiree outside St. Louis, was backing her 2015 Model S out of the driveway when she heard a “screeching noise” and a “big old thump,” she said in an interview. The wheel had collapsed after a break in the fore link that NHTSA is investigating. The repair cost her about $980.
+
+In March, the agency asked Tesla for more information on fore-link failures, including any reports of fires related to the part breaking. Such a part failure could cause a fire if the battery, which is embedded in the floor of Tesla vehicles, scrapes the ground, said Michael Brooks, executive director at the Center for Auto Safety, a consumer advocacy group.
+
+Suspension parts are critical for safety because a failure “pretty much means that your car is going to have some sort of loss of control and a much higher chance of a crash,” Brooks said in an interview.
+
+Tesla owners have filed about 260 complaints with NHTSA over suspension and steering problems this year, compared to about 750 for General Motors and 230 for Toyota. That makes Tesla’s complaint rate far higher when considering the number of GM and Toyota vehicles on the road. GM has a 21% share of U.S. cars in operation; Toyota, 15%. Tesla’s share: less than 1%, according to data analytics firm Experian.
+
+Trouble in Norway
+
+When Tesla engineer van Gestel examined common suspension problems, he found control-arm failure failures had been the second-most expensive failure for the automaker in the 12 months preceding April 2019. Control arms on the Model X had failed more than 3,000 times during that period, despite a redesign of the part.
+
+The engineer found that front upper control arms in models S and X were prone to early failure, with most replacements happening within 2-1/2 years of ownership, he said in a report for Tesla engineers. Van Gestel recommended “next steps,” including “improve quality” of the part and “charge back supplier” for the failures.
+
+The records do not make clear whether Tesla ever received any money back from suppliers. Van Gestel did not respond to a request for comment.
+
+The control-arm problem continued for years, across Tesla’s model lineup. The automaker replaced front upper control arms on about 120,000 cars globally from January 2021 through March 2022, according to a Reuters analysis of repair records included in the Tesla documents. Most of the replacements came on the Model 3, Tesla’s least expensive vehicle. Many of the customer complaints were for noise.
+
+Tesla paid for most of the 120,000 vehicles repaired under warranty, but owners with older cars also paid for 31,000 repairs, the Reuters analysis showed. An upper control arm can cost about $90 on a Model 3 and more than $280 for a Model X, according to invoices provided by customers. That doesn’t include labor, which can run $200 an hour or more for a Tesla technician.
+
+Such suspension defects are rare on relatively new cars, said David Friedman, former acting NHTSA administrator under the Obama administration.
+
+“You certainly shouldn’t be expecting suspensions to fail within the first few years of owning a vehicle,” Friedman said in an interview.
+
+Former service managers and technicians in Norway, the country with the most Teslas per capita, said in interviews that they were inundated with angry customers complaining of early control-arm failures. They said that tension increased as the automaker, starting in 2017, told service employees to push the cost of the frequent and repeated failures onto customers to cut warranty and goodwill repair costs.
+
+One manager said he was forced out after resisting the company’s push to blame customers for the failures of faulty control arms. “I said: ‘Now, we have to quit talking bullshit,’” he recalled. A service technician said he started in 2018 and quit a year later over the issue. “I wasn’t doing anything else than just constantly changing those control arms,” he said.
+
+One senior manager defended the company’s push to cut costs, saying some service managers were giving away repairs in Norway at a rate that would “bankrupt any company.”
+
+‘Womp-womp-womp’
+
+The problematic control arms and links were cheap and simple parts. But two more complex and expensive Tesla components – steering racks and axle half shafts – also frequently failed on newer vehicles.
+
+Trace Curry had a slew of problems with his 2016 Model X. After paying about $110,000 for the vehicle, the Cincinnati surgeon had to replace the control arms twice, once under warranty and once at his own expense. Later, after the four-year warranty ran out, he paid about $10,000 more out of pocket for suspension and drive-axle parts that failed, according to invoices Curry provided to Reuters.
+
+In 2018, Curry had to replace both front half shafts, the left and right drive axles that connect to the wheels, under warranty. Then he had to pay about $1,500 last year to replace both of them again.
+
+When suspension parts rust or wear out, the first symptom can be an annoying squeak, frustrating some Tesla drivers who paid six-figure sums for a luxury vehicle that promised whisper-quiet, breakneck acceleration.
+
+“It sounds like you’re driving a jalopy from the 1970s,” Curry said. “It defeats the purpose of the high speed if you’re afraid that your front wheels are going to fall off if you accelerate quickly.”
+
+Tesla tracked noise complaints on the new Model 3 in 2018 and 2019, company records show. Repair centers handled about 300 cases where owners who had half shafts or wheel hubs replaced reported a wide array of strange noises alerting them to the problem. The complaints included descriptions of “clicking,” “clunking,” a “whir,” a “loud bang” or a “womp-womp-womp” noise increasing with speed. In those 300 cases, Tesla tracked “days to failure,” the total number of days between the start of a vehicle’s new-car warranty and a repair. The average was about eight months.
+
+When the half shafts failed in Curry’s Model X, the SUV vibrated severely, especially under acceleration. He called the multiple replacements “insane” in a car that new: “Have you ever heard of anybody having to replace the axles when you didn’t have an accident?”
+
+Tesla engineers heard about it quite a lot, company records show. One repair analysis showed the company replaced nearly 66,000 half shafts between January 2021 and March 2022. Customers paid for about 10% of those repairs.
+
+Lars Heykers, a senior technician in Belgium, wrote on a company messaging system in September 2021: “We have a car which already had the newest revision of the half shafts 6 weeks ago, and the same issue has returned. Is there another fix for this or just replace them again?”
+
+More than one engineer made a point of saying the issue had nothing to do with damage caused by customers. Engineer Anastasia Skolariki, who was troubleshooting repair problems and customer complaints for Tesla in Europe, wrote in May 2020 to other engineers and technicians that the problem was a design issue “and not abusive behavior from the customer side.” The company needed to cover repairs for cars under warranty, she said, “no matter how many times the vehicle comes to Service with the same issue.”
+
+Neither Heykers nor Skolariki responded to requests for comment.
+
+In 2019, a Tesla engineer in Shanghai flagged a failure on a brand-new Model S with 160 kilometers (99 miles) on it. The car’s rear left half shaft had broken into three pieces when the owner stepped on the accelerator; one of the pieces pierced the electric-drive unit that powers the car.
+
+Another problem seen in brand-new Teslas: sudden power-steering outages.
+
+In May, less than two months after buying his 2023 Model Y, Jamie Minshall felt it jerk suddenly to the right while driving outside Portland, Oregon. A dashboard error message popped up: “Steering assist reduced,” indicating a loss of power-steering. Losing the power function makes the steering wheel suddenly more difficult to turn.
+
+“Fortunately, I was able to hit the brakes quick enough and not go into the ditch, but, yeah, it was pretty terrifying,” said Minshall, who has raced cars as a hobby. “It tried to kill me.”
+
+In July, NHTSA began investigating power-steering outages in 2023 Model 3 and Model Y vehicles.
+
+    “It tried to kill me.”
+
+Between late 2017 and early 2022, more than 400 Model 3 or Model Y owners told the automaker about power-steering failures, according to a Reuters review of customer messages sent through Tesla’s service app. Some reported outages of other safety systems at the same time. The steering complaints accelerated in late 2021 and early 2022.
+
+One Tesla owner from Charlotte, North Carolina, who is not named in the Tesla records, reported to the automaker on Dec. 27, 2021: “Our Model Y started to buck” before power steering and stability control stopped working.
+
+Two weeks later, a Model Y driver near White Plains, New York, told service technicians: “I cannot drive the car. None of the power functions work.”
+
+When NHTSA started its investigation into power steering in late July, it did so on the basis of complaints from 12 drivers. Tesla had known of more than 30 times that number of complaints since 2017 on models 3 and Y, its records show.
+
+NHTSA declined to comment on whether Tesla had disclosed consumer complaints about power steering or safety incidents to the agency.
+
+Andrew Lundeen, of Santa Rosa, California, was driving his wife’s 2018 Model 3 in August when he rode over a speed bump and lost power steering.
+
+Lundeen said in an interview that a Tesla service manager told him that a power-steering connector had corroded. The manager said the likely cause was a car wash, which he described as a known problem.
+
+Lundeen paid $4,400 to replace the steering rack and a wiring harness.
+
+“This is the only car that I’ve ever heard of where a car wash can damage the wiring,” Lundeen recalled telling the manager.
+
+Lundeen said he was so shocked by the manager’s frank explanation of Tesla’s part failures that he wrote it down: “All I can tell you,” the Tesla manager said, “is we’re not a 100-year-old company like GM and Ford. We haven’t worked all the bugs out yet.”"
+""", 
+    "2": """Survivors have identified six Arab paramilitary commanders and militia leaders who they say played a key role in directing the ethnically targeted violence in the Sudanese city of El Geneina that killed thousands and forced hundreds of thousands to flee the country.
+
+The commanders and militia leaders directed their forces to shell densely populated displaced-persons camps and districts in the city with rockets and mortars, and were seen giving orders to their forces as the attacks unfolded, according to more than 20 people who survived the assault and are now living in refugee camps on Chad’s border with Sudan.
+
+Much of the violence was directed at the ethnic African Masalit tribe, who comprised the majority in El Geneina until the attacks forced their mass exodus from the city. The violence, which began in late April and peaked in June, reignited in early November.
+
+Some of the commanders identified by the survivors are part of the Arab-dominated Rapid Support Forces (RSF), a paramilitary that has gained the upper hand in a widening war with the Sudanese Armed Forces for control of the country. The others include leaders of Arab militia forces allied with the RSF. These militias have been involved in multiple rounds of ethnic violence against the Masalit and other darker-skinned African tribes over the past two decades. Earlier this month, the United States determined that the RSF and its militia allies had committed crimes against humanity and ethnic cleansing. In hundreds of interviews with Reuters since the purge of the Masalit began in April, survivors have described horrific scenes of bloodletting in El Geneina and on the 30-kilometer route from the city to the border with Chad as people fled for their lives. In attacks by RSF forces and allied Arab militias, survivors said, women were gang raped, babies had their throats slit and were clubbed to death, people were rammed by vehicles, burned alive in their homes and picked off in the streets by snipers.
+
+Among the RSF commanders identified by survivors is General Abdul Rahman Juma, the paramilitary’s chief for the Sudanese state of West Darfur, whose capital is El Geneina. Five witnesses in the city placed Juma at the scene of attacks on Masalit civilians between April and June. Separately, the U.S. government said in September that forces under his command were involved in the mid-June killing of the region’s governor, a Masalit politician – a charge Juma denied.
+
+Survivors identified several other key players who led RSF and militia operations in the city: Idriss Hassan, a former RSF commander of West Darfur and currently a senior RSF officer; Massar Aseel, a top Arab tribal leader; the deputy of the slain governor, Al Tijani Karshoum; Arab militia leader Moussa Angir; and a militiaman known as Marfaeen, or “the Hyena.” In July, the prosecutor of the International Criminal Court, Karim Khan, told the U.N. Security Council that his office had begun investigating alleged atrocities in Darfur, including sexual violence and crimes against children.
+
+According to a person familiar with the probe, three of the people identified by the survivors for this story are being investigated by the ICC: Juma, Karshoum, and Aseel. The person, speaking on condition of anonymity because of the sensitivity of the matter, said the three men were the subject of allegations, which means ICC investigators have information suggesting they were involved in crimes. That does not mean the three would ultimately be prosecuted, the person said.
+
+Reuters could not independently corroborate all the accounts of the roles played by RSF and Arab militia leaders in the violence. But witnesses were consistent in describing the patterns of violence and sequence of events in the assault on the city. In some instances, multiple people provided similar details about the specific commanders they identified, such as the type of vehicle they traveled in, how they were dressed, the types of weapons carried by their forces, or the districts where they were spotted. Reuters is not publishing the full names of the survivors interviewed for this report to protect them from possible retaliation. The Chad-Sudan border is porous, and refugees say they have seen members of the RSF in markets on the Chad side of the border in recent months.
+
+The survivor testimonies gathered by Reuters since the purge of the Masalit began this year, indicate the campaign against the tribe has been systematic and coordinated. Masalit men, from infants to adults, were targeted for killing in the attacks. Women who were human rights activists in the city were hunted down and raped. Largely Masalit-inhabited districts and refugee camps were shelled.
+
+In September, the United States imposed sanctions on deputy RSF leader Abdelrahim Hamdan Dagalo “for his connection to abuses by the RSF against civilians in Sudan, including conflict-related sexual violence and killings based on ethnicity.” Dagalo, who has denied the charges, is the brother of RSF leader Mohamed Hamdan Dagalo, known as Hemedti. Hemedti has not been sanctioned.
+
+The conflict in Darfur erupted days after the war broke out in the capital Khartoum between the Sudanese army and the RSF, who fell out over a plan to integrate their forces as part of a transition to democracy. More than seven million people have fled their homes since the war began, according to the United Nations refugee agency (UNHCR). In Darfur, competition for land and water has fueled years of conflict between Arab and non-Arab tribes. In the early 2000s, the Masalit and other non-Arabs rebelled after enduring repeated attacks from Arab forces. The government of President Omar Al-Bashir armed Arab militias known as the Janjaweed to help crush the uprising.
+
+The RSF evolved from the Janjaweed. And like the Janjaweed, it draws its leaders and many fighters from the Rizeigat, one of the largest Arab tribes in Darfur. RSF leader Hemedti is a Rizeigat. He has said this year's violence in Darfur is the result of a tribal conflict and his forces have no role in it.
+
+Masalit leaders accuse the Arab forces of progressively driving them off their land. Now, they say, the RSF is trying to finish the job and expel them completely. One of the most influential Arab figures identified by witnesses is Aseel, who is a leader of the Rizeigat tribe. Three witnesses identified him as one of the Arab militia commanders who led the attacks. A Masalit tribal leader in El Geneina said he saw Aseel in a neighborhood called Donki 13 in mid-June, traveling in a land cruiser and checking on the positions of Arab fighters.
+
+In an interview with Reuters in September, Aseel blamed the Masalit for the outbreak of violence and said Arab forces were responding to attacks by the Masalit. The accounts given by the Masalit were “all lies,” he said.
+
+Aseel denied he was a militia commander and said he had no relationship with the RSF. “I am innocent,” he added.
+
+Aseel didn’t respond to follow-up questions for this story.
+
+Weeks after the second round of purges against the Masalit in early November, a video was posted on an official RSF social media channel. Aseel, along with Juma and Karshoum, the deputy governor, are seen addressing an event in El Geneina billed as a “festival for peaceful coexistence.”
+
+The Arab tribes had “no enmity” toward the Masalit, Aseel told the crowd. “We forget the past and we are turning a new page with you,” he declared in the video, which was identified by the Center for Information Resilience’s Sudan Witness project.
+
+Karshoum had a similar message: “War is over,” he said. “Now we need societal peace and coexistence.” Juma is the most senior leader placed at the head of the attacks in El Geneina by the witnesses who spoke to Reuters. Five described seeing him with his forces, issuing instructions, at different times and places during the assault on the Masalit between April and June.
+
+The RSF-led attacks began in late April, with the shelling of Masalit neighborhoods. RSF forces under Juma pushed toward the city’s Al Madaris area, according to the five witnesses.
+
+Thousands of Masalit sought shelter in the area, which is adjacent to the governor’s office, and Masalit fighters gathered there to make a stand. RSF-led forces shelled Al Madaris from surrounding positions, according to multiple survivors.
+
+El Geneina hosted dozens of displaced persons camps that were largely inhabited by Masalit uprooted in earlier violence, and these too came under fire. A number of camps were razed to the ground, according to three witnesses and a review of satellite images of these areas. Two of the witnesses said they saw destroyed camps upon returning to El Geneina, after fleeing to Chad, to look for missing relatives. Bulldozers were used to demolish remaining shacks, several survivors said.
+
+A former policeman who lived in the displaced persons camp of Al Hojaj, close to RSF headquarters in the city, said he encountered Juma three times in late April, shortly after the assault on the city began. After entering the camp with his forces, Juma gave orders to shell the area. “I could see him pointing in different directions to bomb,” the man said.
+
+The ex-policeman said he and other men in the camp took up arms to defend their families. “We had nowhere to go. We were trapped.” He later fled to Chad.
+
+A satellite image taken on June 21, just days after the violence ended, showed that much of the Al Hojaj camp had been destroyed. Two other Masalit men who took up arms against the RSF said they saw Juma in another part of the city in mid-May. He was in Al Jamarek, a district in western El Geneina where RSF headquarters are located. Both said Juma was telling his forces where to aim as they were shelling the Al Madaris area, close to where the governor’s compound was located.
+
+One of the Masalit fighters, 37-year-old Abdel-Jalil, said he spotted Juma four times in May, dressed in military fatigues and the RSF’s red beret. On one occasion, Abdel-Jalil said, Juma was traveling in a convoy of vehicles mounted with anti-aircraft guns close to the RSF headquarters. “He oversees the assault, but he doesn’t engage himself in the fighting,” Abdel-Jalil said.
+
+The next month, on June 14, a Masalit activist for displaced persons said he saw Juma dressed in military uniform and carrying an assault rifle. He was giving orders to a large contingent of RSF fighters to target the Al Madaris area with mortars and RPGs, the activist said. Mortars rained down on people sheltering in the area that day, according to multiple survivors who were there.
+
+The same day, West Darfur Gov. Khamis Abbakar, himself a Masalit, publicly condemned the actions of the RSF in the city, accusing the paramilitary of genocide. He was killed by RSF forces that same day, Reuters reported at the time. Footage posted on social media showed Abbakar being led into Juma’s office at RSF headquarters in the city. Later, pictures of his body being mutilated also appeared on social media.
+
+In September, the U.S. State Department said the men who killed the governor were led by Juma and announced sanctions against him. In an audio message posted on an RSF social media page, Juma said the governor was killed by an angry mob while trying to escape to Chad. He had tried to help the governor by arranging transport for him to Chad, Juma said.
+
+Juma did not respond to questions for this report sent to him via the RSF. He has denied that the paramilitary was involved in the bloodshed in El Geneina.
+
+Violence flared anew in early November. Hundreds of Masalit men were rounded up by Arab forces, according to dozens of survivors. Some of these captives were executed in the outlying Ardamata district of El Geneina, according to at least 30 witnesses.
+
+After the RSF overran the Sudanese army base in El Geneina in early November, Juma can be seen in a video posted on an RSF social media channel addressing his troops outside the base and hailing RSF leader Hemedti. At the time, dozens of witnesses told Reuters, a killing campaign by RSF forces and Arab militias was underway in Ardamata, the district where the army base is located. Masalit men in particular were targeted. The European Union said more than 1,000 Masalit were killed in the rampage. Also spotted in the attacks was Idriss Hassan, an RSF Brigadier General and member of the Rizeigat tribe. Hassan was part of the Arab forces used by former dictator Bashir to crush the rebellion by the non-Arab tribes in the early 2000s. Bashir faces genocide charges by the ICC over his role in the violence.
+
+Three witnesses said they saw Hassan in May directing RSF forces who were attacking civilian areas, largely populated by the Masalit.
+
+El-Tayab, a 34-year-old Masalit who took up arms when hostilities began, said he saw Hassan in the city’s Al Jabal district in mid-May. Hassan arrived in a mud-covered white land cruiser mounted with an anti-aircraft gun. “He was supervising the forces” that shelled the district, El-Tayab said. Multiple witnesses told Reuters that the RSF and its allied Arab militias shelled civilian areas in El Geneina for weeks and then ambushed and killed people fleeing for Chad. Entire areas of the city, mainly Masalit districts, were razed to the ground. Mohammed, a construction worker, said he performed work at Hassan’s house a few years ago. Mohammed said he was in the city’s Abu Zor displaced-persons camp in late May when he recognized Hassan leading a large force that stormed the camp. Hassan, dressed in RSF uniform and wearing a traditional Arab turban, arrived in a convoy of mud-covered land cruisers. Mohammed said he was hit in the arm by shrapnel during the attack and later fled to Chad.
+
+A 39-year-old Masalit doctor told Reuters he saw Hassan in late May leading a convoy of some 30 pickup trucks mounted with anti-aircraft guns, heading to the Masalit district of Al Thawra in southern El Geneina.
+
+Hassan did not respond to questions from Reuters sent to him via the RSF. Karshoum became deputy governor of West Darfur in 2022. Four people said they saw Karshoum – a well-known figure locally – with militiamen as Arab forces moved through the city during the attacks.
+
+Younis, a 43-year-old Masalit resident, said he encountered Karshoum on May 6. Karshoum was riding in the front of a pickup truck, carrying about a dozen Arab militiamen, that pulled up outside Younis’ house in the western Al Jamarek district near RSF headquarters. Younis said four of the militiamen stormed into his home, grilling him at gunpoint about his tribal affiliation and whether he was a soldier. “I said I am not Masalit,” he told them.
+
+The men searched the house and took all the mobile phones, he said, echoing dozens of other witnesses who told Reuters of militiamen seizing their phones. The men then left and began looting the neighbor’s house, Younis recalled.
+
+Days later, Yacoub, a 20-year-old Masalit civilian who took up arms to defend his family, said he saw Karshoum in a land cruiser leading an attack on the city’s southern Al Jabal district. Karshoum was with the RSF's Hassan during the attack, he said.
+
+“The fighters were shouting, ‘nuba, we will kill you,’” Yacoub said, repeating a term used by Arab tribes in Darfur meaning slaves.
+
+Multiple witnesses told Reuters that the RSF and Arab militias used the Al Jabal district’s elevated position to shell displaced persons camps and neighborhoods inhabited by the Masalit.
+
+Two people said they saw Karshoum issuing orders at the Abu Zor displaced-persons camp and in Al Madaris.
+
+Mohammed, a social worker, said he spotted Karshoum on May 20, while sheltering from shelling directed by the RSF at Abu Zor, where his father had been living. From behind a wall where he was taking refuge, Mohammed said, he could see and hear Karshoum directing artillery fire towards the governor’s office and telling his forces that they were “getting close.” Mohammed said there was heavy smoke from the bombing that provided him with cover as there was nothing separating him from Karshoum but the wall. Karshoum, he said, was dressed in an olive-green outfit. Sherif, a 40-year-old Masalit man, said he saw Karshoum in June in the Al Madaris district, and heard him instructing troops to direct their fire at the governor’s office. That month, Sherif said he twice saw Karshoum traveling in a black land cruiser and directing attacks on displaced-persons camps.
+
+In the camp attacks, “shells wiped out entire families,” said Sherif. On June 13, he said he buried dozens of people in the city’s Al Ghabat cemetery who had been killed. Four of his cousins were killed by the RSF in the city, he said.
+
+The former policeman who escaped to Chad said he encountered Karshoum while fleeing El Geneina on the morning of June 15, along with thousands of other Masalit. The deputy governor was accompanied by armed men in RSF uniforms and traditional Arab clothing, riding in three land cruisers mounted with machine guns. Karshoum was rallying the militiamen, the ex-policeman said.
+
+Other survivors have told Reuters that the RSF and Arab militias attacked people repeatedly on the route from El Geneina to Chad. Masalit men were shot and women raped at different points along the way, they said.
+
+In an interview with Reuters in October, Karshoum said he supported an “independent investigation” into the violence in El Geneina. He said he had tried to mediate between Arab and non-Arab leaders in the city before the war spilled over from Khartoum to El Geneina in an attempt to prevent violence.
+
+Karshoum didn’t respond to follow-up questions about the witness accounts of his role in the fighting. Angir is a commander of the Third Front-Tamazuj, an Arab-dominated militia allied with the RSF that has emerged as a force in the recent violence in West Darfur.
+
+Six people from El Geneina described seeing Third Front-Tamazuj fighters waging attacks side-by-side with RSF forces in the city this year. In August, the group formally announced its alliance with the RSF.
+
+In 2021, Sudan’s prosecutor-general charged Angir and more than 30 others with murder, sabotage and looting in connection with attacks on a displaced-persons camp on the outskirts of El Geneina, according to a state prosecutor and four lawyers familiar with the case. Dozens of people were killed in the attacks, which took place in late 2019. The court proceeding against Angir and others was disrupted after the Sudanese military and RSF together seized power in a coup in 2021, the state prosecutor told Reuters.
+
+Three people said they witnessed Angir directing forces during the El Geneina attacks this year.
+
+Faisal, 26, a Masalit shop owner who took up arms to defend his family, said he saw Angir on May 13, leading a convoy of land cruisers carrying militiamen in the Al Madaris district. Faisal said he comes from the same district as Angir and recognized the well-known commander’s face. He was watching from a window in a building overlooking a narrow street as Angir’s convoy passed through when he heard Angir ordering his men to “move forward.”
+
+A 39-year-old doctor said he spotted Angir in the company of militiamen at different checkpoints in the city as he traveled around to treat patients. Throughout the assaults, the RSF and Arab militias set up checkpoints in El Geneina to control people’s movement.
+
+The third man, a civilian-turned-fighter, said he saw Angir on June 16, with militiamen at a security installation in the west of El Geneina, where residents trying to flee the city had gathered.
+
+Angir did not respond to questions from Reuters. A spokesman for the Tamazuj declined to comment. The militiaman is well-known locally by his nom de guerre, Marfaeen, which means “hyena” in Sudanese Arabic.
+
+Four witnesses described seeing Marfaeen in action in the eastern part of El Geneina.
+
+A Masalit man named Gamal said he encountered Marfaeen while shopping for food at the Aredeba market in northeast El Geneina in late May. Marfaeen and militiamen under his command confronted Gamal and his companions and began questioning them about several individuals, including a Masalit lawyer.
+
+“They made us lie on the ground and they asked us a lot of questions,” said Gamal. When he and his companions denied knowing the individuals, he said, the militiamen proceeded to beat them on their feet. They were later let go.
+
+Reuters was unable to contact Marfaeen for this report.
+
+A relief worker with an international humanitarian agency said he came across Marfaeen in the Aredeba market around the same time in late May. The relief worker was moving from one district to another as he tried to evade the RSF’s escalating attacks. He said he spotted Marfaeen one day after moving into a house on the edge of the market.
+
+Through a hole in the door, the relief worker said he could see Marfaeen leading a group of nine armed men. The men were in a land cruiser mounted with an anti-aircraft gun and were firing randomly at people, the relief worker said.
+
+People in the streets were shouting, “It’s Marfaeen, Marfaeen,” as they fled.
+
+During the attack, two people fell to the ground, while the rest escaped, the relief worker said. The militiamen then looted some shops, taking meat from a butchery and cash from vegetable sellers.
+
+“I saw him with my own eyes,” the relief worker said of Marfaeen.
+""",
+    "3":"""
+""",
+
+}
