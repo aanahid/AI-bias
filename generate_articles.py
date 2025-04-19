@@ -5,6 +5,7 @@ import json
 
 load_dotenv()
 nvidia_api_key = os.getenv("NVIDIA_API_KEY")
+OPENAI_KEY = os.getenv("OPENAPI_KEY")
 
 with open("headlines.json") as f: 
     headlines = json.load(f)
@@ -42,9 +43,41 @@ def deepseek_articles(headlines):
     with open("generated_articles/deepseek_articles.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
+def chatgpt_articles(headlines):
+    client = OpenAI(
+        base_url = "https://api.openai.com/v1/",
+        api_key = OPENAI_KEY
+    )
+
+    all_articles = {}
+    for i, h in headlines.items(): 
+        content = f"Use '{h}' as a title to write a short news article."
+
+        completion = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[{"role":"user","content":content}],
+            temperature=0.6,
+            top_p=0.7,
+            max_tokens=4096,
+            stream=True
+        )
+
+        article = ""
+        for chunk in completion:
+            delta = chunk.choices[0].delta
+            if delta.content:
+                article += delta.content
+
+        all_articles[i] = clean_article(article)
+
+    with open("generated_articles/chatgpt_articles.json", "w") as f:
+        json.dump(all_articles, f, indent=2)
+
 def clean_article(text):
     if "<think>" in text and "</think>" in text:
         return text.split("</think>", 1)[1].strip()
     return text.strip()
 
 # deepseek_articles(headlines)
+
+# chatgpt_articles(headlines)
