@@ -1,11 +1,13 @@
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
+import anthropic
 import json
 
 load_dotenv()
 nvidia_api_key = os.getenv("NVIDIA_API_KEY")
 OPENAI_KEY = os.getenv("OPENAPI_KEY")
+anthropic_key = os.getenv("ANTHROPIC_API_KEY")
 
 with open("headlines.json") as f: 
     headlines = json.load(f)
@@ -70,7 +72,34 @@ def chatgpt_articles(headlines):
 
         all_articles[i] = clean_article(article)
 
-    with open("generated_articles/chatgpt_articles.json", "w") as f:
+def claude_articles(headlines):
+    client = anthropic.Anthropic(
+        api_key = anthropic_key
+    )
+
+    all_articles = {}
+    for i, h in headlines.items(): 
+        content = f"Use '{h}' as a title to write a short news article."
+        message = client.messages.create(
+            model="claude-3-7-sonnet-20250219",
+            max_tokens=20000,
+            temperature=0.6,
+            messages=[
+                {
+                    "role": "user",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": content
+                        }
+                    ]
+                }
+            ]
+        )
+
+        all_articles[i] = message.content[0].text
+
+    with open("generated_articles/claude_articles.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
 def clean_article(text):
@@ -78,6 +107,8 @@ def clean_article(text):
         return text.split("</think>", 1)[1].strip()
     return text.strip()
 
-# deepseek_articles(headlines)
+deepseek_articles(headlines)
 
 # chatgpt_articles(headlines)
+
+claude_articles(headlines)
