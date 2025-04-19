@@ -107,8 +107,8 @@ def clean_article(text):
         return text.split("</think>", 1)[1].strip()
     return text.strip()
 
-deepseek_articles(headlines)
+# deepseek_articles(headlines)
 
 # chatgpt_articles(headlines)
 
-claude_articles(headlines)
+# claude_articles(headlines)
