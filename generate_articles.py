@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
-import anthropic
+# import anthropic
 import json
 
 load_dotenv()
@@ -14,6 +14,9 @@ with open("headlines.json") as f:
 
 with open("sample.json") as f:
     sample = json.load(f)
+
+with open("nyt_title.json") as f:
+    nyt = json.load(f)
 
 def deepseek_articles(headlines):
     client = OpenAI(
@@ -72,6 +75,9 @@ def chatgpt_articles(headlines):
 
         all_articles[i] = clean_article(article)
 
+    with open("generated_articles/nyt_chatgpt.json", "w") as f:
+        json.dump(all_articles, f, indent=2)
+
 def claude_articles(headlines):
     client = anthropic.Anthropic(
         api_key = anthropic_key
@@ -112,3 +118,5 @@ def clean_article(text):
 # chatgpt_articles(headlines)
 
 # claude_articles(headlines)
+
+chatgpt_articles(nyt)
