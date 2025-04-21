@@ -18,7 +18,13 @@ with open("sample.json") as f:
 with open("nyt_title.json") as f:
     nyt = json.load(f)
 
-def deepseek_articles(headlines):
+def deepseek_articles(headlines, filename):
+    """
+        Args:
+            headlines (dict): headlines loaded from json file.
+            filename (str): name of output json file where generated articles will be saved.
+    """
+
     client = OpenAI(
         base_url = "https://integrate.api.nvidia.com/v1",
         api_key = nvidia_api_key
@@ -26,6 +32,7 @@ def deepseek_articles(headlines):
 
     all_articles = {}
     for i, h in headlines.items(): 
+        print(i)
         content = f"Use '{h}' as a title to write a short news article."
 
         completion = client.chat.completions.create(
@@ -34,18 +41,13 @@ def deepseek_articles(headlines):
             temperature=0.6,
             top_p=0.7,
             max_tokens=4096,
-            stream=True
+            stream=False
         )
 
-        article = ""
-        for chunk in completion:
-            delta = chunk.choices[0].delta
-            if delta.content:
-                article += delta.content
-
+        article = completion.choices[0].message.content
         all_articles[i] = clean_article(article)
 
-    with open("generated_articles/deepseek_articles.json", "w") as f:
+    with open(f"generated_articles/{filename}.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
 def chatgpt_articles(headlines):
@@ -78,13 +80,20 @@ def chatgpt_articles(headlines):
     with open("generated_articles/nyt_chatgpt.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
-def claude_articles(headlines):
+def claude_articles(headlines, filename):
+    """
+        Args:
+            headlines (dict): headlines loaded from json file.
+            filename (str): name of output json file where generated articles will be saved.
+    """
+
     client = anthropic.Anthropic(
         api_key = anthropic_key
     )
 
     all_articles = {}
     for i, h in headlines.items(): 
+        print(i)
         content = f"Use '{h}' as a title to write a short news article."
         message = client.messages.create(
             model="claude-3-7-sonnet-20250219",
@@ -105,18 +114,21 @@ def claude_articles(headlines):
 
         all_articles[i] = message.content[0].text
 
-    with open("generated_articles/claude_articles.json", "w") as f:
+    with open(f"generated_articles/{filename}.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
 def clean_article(text):
     if "<think>" in text and "</think>" in text:
-        return text.split("</think>", 1)[1].strip()
+        text = text.split("</think>", 1)[1]
+    if "**" in text and "** " in text: 
+        text = text.split("** ", 1)[1]
     return text.strip()
 
-# deepseek_articles(headlines)
+# deepseek_articles(headlines, "deepseek_articles")
+# deepseek_articles(nyt, "nyt_deepseek")
 
 # chatgpt_articles(headlines)
+# chatgpt_articles(nyt)
 
-# claude_articles(headlines)
-
-chatgpt_articles(nyt)
+# claude_articles(headlines, "claude_articles")
+# claude_articles(nyt, "nyt_claude")
