@@ -50,7 +50,7 @@ def deepseek_articles(headlines, filename):
     with open(f"generated_articles/{filename}.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
-def chatgpt_articles(headlines):
+def chatgpt_articles(headlines, filename):
     client = OpenAI(
         base_url = "https://api.openai.com/v1/",
         api_key = OPENAI_KEY
@@ -77,7 +77,7 @@ def chatgpt_articles(headlines):
 
         all_articles[i] = clean_article(article)
 
-    with open("generated_articles/nyt_chatgpt.json", "w") as f:
+    with open(F"generated_articles/{filename}.json", "w") as f:
         json.dump(all_articles, f, indent=2)
 
 def claude_articles(headlines, filename):
@@ -127,8 +127,8 @@ def clean_article(text):
 # deepseek_articles(headlines, "deepseek_articles")
 # deepseek_articles(nyt, "nyt_deepseek")
 
-# chatgpt_articles(headlines)
-# chatgpt_articles(nyt)
+# deepseek_articles(headlines, "chatgpt_articles")
+# deepseek_articles(nyt, "nyt_chatgpt")
 
 # claude_articles(headlines, "claude_articles")
 # claude_articles(nyt, "nyt_claude")
